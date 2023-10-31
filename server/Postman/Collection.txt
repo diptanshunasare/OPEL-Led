@@ -1,0 +1,72 @@
+user :
+{
+    "email": "adi@gmail.com" ,
+    "password" : "@123"
+}
+
+product :
+{
+                "id" :"2" ,
+                "title": "LED Light",
+                "description" : "SuperSmart Led for Dining romm | 5W" , 
+                "img_url_1" : "https://images.unsplash.com/photo-1608429700640-453a5a242edf?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=872&q=80" ,
+                "img_url_2" : "https://images.unsplash.com/photo-1563099045-dd7d9aebaa49?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=896&q=80" ,
+                "img_url_3" : "https://images.unsplash.com/photo-1618403323851-ac3d38029495?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80" ,
+                "img_url_4" : "https://images.unsplash.com/photo-1605419589330-0b6dede4c265?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80" ,
+                "actual_price" : 240 ,
+                "offer_price" : 120 ,
+                "offer_percentage" : 50 ,
+                "rating" : 4 ,
+                "brand" : "Opel" , 
+                "light_type" :"LED" ,
+                "special_feature" :"Ennergy Efficient" ,
+                "wattage" : 5 ,
+                "voltage" : 240,
+                "colour" :"White",
+                "room_type" :"Indoor",
+                "is_in_stock" : true,
+                "home_delivery" : true,
+                "cash_on_delivery" :true,
+                "warranty_period" :"6 Month",
+                "return_policy_upto" :"30 days" 
+}
+
+
+
+
+
+
+Cart :
+{
+    "id" : 1 ,
+"product" :{
+                "id" :"2" ,
+                "title": "LED Light",
+                "description" : "SuperSmart Led for Dining romm | 5W" , 
+                "img_url_1" : "https://images.unsplash.com/photo-1608429700640-453a5a242edf?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=872&q=80" ,
+                "img_url_2" : "https://images.unsplash.com/photo-1563099045-dd7d9aebaa49?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=896&q=80" ,
+                "img_url_3" : "https://images.unsplash.com/photo-1618403323851-ac3d38029495?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80" ,
+                "img_url_4" : "https://images.unsplash.com/photo-1605419589330-0b6dede4c265?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80" ,
+                "actual_price" : 240 ,
+                "offer_price" : 120 ,
+                "offer_percentage" : 50 ,
+                "rating" : 4 ,
+                "brand" : "Opel" , 
+                "light_type" :"LED" ,
+                "special_feature" :"Ennergy Efficient" ,
+                "wattage" : 5 ,
+                "voltage" : 240,
+                "colour" :"White",
+                "room_type" :"Indoor",
+                "is_in_stock" : true,
+                "home_delivery" : true,
+                "cash_on_delivery" :true,
+                "warranty_period" :"6 Month",
+                "return_policy_upto" :"30 days" 
+} ,
+"user" :  {
+    "email": "adi@gmail.com" ,
+    "password" : "@123"
+}
+
+}
